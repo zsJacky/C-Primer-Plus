@@ -1,1 +1,3 @@
-# C-Primer-Plus
+C Primer Plus
+
+By Stephen Prata
